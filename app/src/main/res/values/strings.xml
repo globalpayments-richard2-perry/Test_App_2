@@ -9,6 +9,7 @@
     <string name="calculate">Calculate</string>
 
     <string name="invalid_input">Invalid input. Please enter valid numbers.</string>
+
     <string name="time">Time</string>
     <string name="speed">Speed</string>
     <string name="distance">Distance</string>
