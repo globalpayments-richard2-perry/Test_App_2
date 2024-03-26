@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Test App 2</string>
+
+    <string name="enter_values">Enter two values to calculate the third</string>
+    <string name="time_hint">Time</string>
+    <string name="speed_hint">Speed</string>
+    <string name="distance_hint">Distance</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="invalid_input">Invalid input. Please enter valid numbers.</string>
+    <string name="time">Time</string>
+    <string name="speed">Speed</string>
+    <string name="distance">Distance</string>
+
+    <string name="invalid_input_zero_or_negative">Input must be a positive number</string>
+
+    <string name="feet">Feet</string>
+    <string name="meters">Meters</string>
+
+</resources>
